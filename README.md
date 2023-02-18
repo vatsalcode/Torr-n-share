@@ -13,9 +13,9 @@ java bitTorrents/peer_1004/PeerProcess1004 1004
 java bitTorrents/peer_1005/PeerProcess1005 1005
 ```
 ## Team Contribution:
-Vatsal Verma : Protocol definition, multithreading management, File transfer
-Rebecca: Extracting info from Common.cfg and PeerInfo.cfg, Logger configuration
-Shawn Hales: Connection establishment, Changing neighbours 
+- Vatsal Verma : Protocol definition, multithreading management, File transfer
+- Rebecca: Extracting info from Common.cfg and PeerInfo.cfg, Logger configuration
+- Shawn Hales: Connection establishment, Changing neighbours 
 
 Equal contribution in debugging
 
