@@ -1,5 +1,5 @@
 # BitTorrent
-## [Protcol Explanation](https://drive.google.com/file/d/12MCD2RFjkV0vSQJS7VdEpUd7bwdOp-Fd/view?usp=share_link)
+
 ## Instructions to run:
 After logging into a CISE Linux server, we use the below command to go to the desired path:
 cd BitTorrent/BitTorrents/src
